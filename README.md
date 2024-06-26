@@ -2,4 +2,4 @@ LøseØnlineRobot Bu bot, gruplarda 10.000'e kadar üyeden bahsedebilir ve kanal
 
 🏷Bilgi Dil: Python. Telgraf Kütüphanesi: Telethon.
  🚀Heroku'ya dağıt
-https://heroku.com/deploy?template=https://github.com/usermusti/tagger.py
+https://heroku.com/deploy?template=https://github.com/Canpasa31/Yanginlar.py
